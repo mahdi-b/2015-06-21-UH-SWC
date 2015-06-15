@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: workshop
 root: ../..
 title: Creating a Reproducible Workflow
 ---

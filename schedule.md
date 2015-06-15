@@ -17,7 +17,7 @@ title: Schedule
 </tr>
 <tr>
     <td> 9:00-9:30      </td>
-    <td><a href="{{site.github.url}}/slides/intro.html">Introduction</a></td>
+    <td><a href="{{site.github.url}}/intro.html">Introduction</a></td>
     <td> Neem Serra       </td>
 </tr>
 <tr>

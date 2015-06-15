@@ -1,6 +1,6 @@
 ---
 layout: workshop
-root: ../..
+root: ../
 title: Creating a Reproducible Workflow
 ---
 
